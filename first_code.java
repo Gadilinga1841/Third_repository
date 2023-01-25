@@ -22,7 +22,8 @@ public class Calc1 {
 
 	public static void main(String[] args) {
 	 Cal obj1= new Cal();
-	 System.out.println(obj1.ope(23,44));
+	 System.out.println(obj1.ope(23.3f,44));
+       System.out.println(obj1.ope(23,34);
 	}
 
 }
